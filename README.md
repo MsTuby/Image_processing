@@ -18,4 +18,7 @@ program 1: Tracks the selected ROI
 program 2: Tracks and sharpens the ROI  
 program 3: Tracks and blurrs the ROI  
 
-Install the necessary packages mentioned in the code at the top
+Install the necessary packages mentioned in the code at the top  
+
+Reference repository:  
+https://github.com/andikarachman/Simple-Object-Tracking/blob/master/LICENSE
