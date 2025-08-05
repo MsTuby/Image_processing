@@ -11,8 +11,8 @@ What is kcf?
 kcf or 'kernalized correlation filter' is a correlation filter based tracking algorithm that works on feature extraction from the image. The algorithm learns the correlation filter by performing correlation between the selected ROI and the input image. Compared to other available tracking algorithm by OpenCV, kcf is faster and more suitable for real-time tracking. However, its performance is affected by occlusion.
 
 This repository is a compilation of 3 programs:
-program 1: Tracks the selected ROI
-program 2: Tracks and sharpens the ROI
-program 3: Tracks and blurrs the ROI
+program 1: Tracks the selected ROI  
+program 2: Tracks and sharpens the ROI  
+program 3: Tracks and blurrs the ROI  
 
 Install the necessary packages mentioned in the code at the top
